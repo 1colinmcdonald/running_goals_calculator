@@ -25,6 +25,7 @@ def calculator():
     print("run", long_run, "miles on", "Sunday")
     
     print(days_of_longer_regular_run)
+    print("hi")
 
 
 if __name__ == '__main__':
